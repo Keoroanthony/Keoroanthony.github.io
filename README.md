@@ -1,1 +1,2 @@
-# MyResume, my personal portifolio entails my academic details, skills and profile
+# My personal portifolio entails my skills and projects. 
+# Visit https://keoroanthony.github.io
